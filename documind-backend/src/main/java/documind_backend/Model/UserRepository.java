@@ -1,4 +1,4 @@
-package documind_backend.user;
+package documind_backend.Model;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
